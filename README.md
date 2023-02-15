@@ -41,4 +41,4 @@ Pada program Java, inputannya dilakukan secara hardcode jadi user tidak perlu me
 
 # Dokumentasi
 Java
-![Java program](java/dok_java.png)
+![Java program](Java/dok_java.png)
