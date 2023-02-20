@@ -40,5 +40,6 @@ Class Human -> Class SivitasAkademik -> Class Mahasiswa
 Pada program Java, inputannya dilakukan secara hardcode jadi user tidak perlu memasukkan inputan.
 
 # Dokumentasi
-*Java*
+###Java
+
 ![Java program](Java/dok_java.png)
