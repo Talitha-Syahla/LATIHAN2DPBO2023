@@ -39,7 +39,7 @@ Class Mahasiswa ini mewarisi Class SivitasAkademik yang berarti Class ini menjad
 
 Ketiga Class di atas memiliki setter dan getternya masing-masing. Terdapat 1 Class tambahan, yaitu Class Crud. Class Crud ini memiliki method untuk menambahData dan melihatData berdasarkan apa yang di input oleh user. Class Crud tambahan ini terdapat pada program C++ dan Python.
 
-![UML program](/UML_Lat2.png)
+## ![UML program](/UML_Lat2.png)
 
 # Alur Program
 Pada program Java dan PHP, inputannya dilakukan secara hardcode jadi user tidak perlu memasukkan inputan. Namun pada program C++ dan Python user akan diminta untuk memilih pada menu yang tersedia pada program yaitu:
